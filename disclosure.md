@@ -4,9 +4,9 @@ title: Affiliate Disclosure
 permalink: /disclosure/
 ---
 
-Tidy Nest Home is a participant in the Amazon Services LLC Associates Program,
-an affiliate advertising program designed to provide a means for sites to earn
-advertising fees by advertising and linking to Amazon.com.
+Cozy Life Picks is a participant in the Amazon Services LLC Associates
+Program, an affiliate advertising program designed to provide a means for
+sites to earn advertising fees by advertising and linking to Amazon.com.
 
 **As an Amazon Associate we earn from qualifying purchases.** When you buy
 through links on our site, we may earn a small commission at no extra cost to

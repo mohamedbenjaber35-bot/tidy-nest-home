@@ -5,11 +5,11 @@ permalink: /privacy/
 ---
 
 Your privacy matters to us. This page explains what information is (and isn't)
-collected when you visit Tidy Nest Home.
+collected when you visit Cozy Life Picks.
 
 ## What we collect
 
-Tidy Nest Home is a static website. We do not require accounts, we do not set
+Cozy Life Picks is a static website. We do not require accounts, we do not set
 tracking cookies ourselves, and we do not collect personal information from
 visitors.
 
@@ -24,4 +24,4 @@ visitors.
 
 ## Questions
 
-Email us at **tidynesthome@gmail.com** and we'll be happy to help.
+Email us at **cozylifepicks@gmail.com** and we'll be happy to help.

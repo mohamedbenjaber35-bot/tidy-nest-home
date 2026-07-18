@@ -1,9 +1,9 @@
-title: Tidy Nest Home
+title: Cozy Life Picks
 description: >-
-  Smart home organization ideas, decor inspiration, and honest product picks
-  to make every corner of your home calmer and prettier.
-url: "https://tidynesthome.github.io"
-baseurl: "/tidy-nest-home"
+  Cozy ideas and smart product picks for your whole life — home, kitchen,
+  garden, pets and more. Realistic tips that hold up in daily life.
+url: "https://cozylifepicks.github.io"
+baseurl: ""
 permalink: /:title/
 plugins:
   - jekyll-feed
