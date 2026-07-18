@@ -2,6 +2,8 @@
 layout: post
 title: "15 Pantry Organization Ideas That Actually Work"
 description: "Transform a messy pantry into a calm, functional space with these 15 realistic pantry organization ideas — clear bins, labels, lazy Susans, and more."
+image: /images/pantry-hero.png
+category: Pantry
 ---
 
 *This post contains affiliate links. As an Amazon Associate we earn from
@@ -57,6 +59,8 @@ Give snacks one home. A couple of
 keep granola bars and chip bags from spreading everywhere — and kids can find
 them without unstacking your whole system.
 
+![Organized pantry shelves with labeled bins and baskets]({{ '/images/pantry-pin-1.png' | relative_url }})
+
 ## 8. Store cans on a can dispenser rack
 
 A [can organizer rack](https://www.amazon.com/s?k=can+organizer+rack+pantry&tag=tamirugc20-20)
@@ -99,6 +103,8 @@ and stop wrecking the rest of the pantry looking for them.
 
 No system survives without maintenance. One 10-minute reset a week — return
 strays, wipe shelves, note what's running low — keeps the whole pantry working.
+
+![Spice jars on a wooden lazy Susan in a small pantry]({{ '/images/pantry-pin-2.png' | relative_url }})
 
 ---
 

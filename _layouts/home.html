@@ -1,0 +1,60 @@
+---
+layout: default
+---
+<section class="hero">
+  <img class="hero-img" src="{{ '/images/hero-wide.png' | relative_url }}" alt="Bright organized living room with styled open shelving">
+  <div class="hero-card">
+    <p class="kicker">Home organization &amp; decor</p>
+    <h1>A calmer, prettier home — one shelf at a time.</h1>
+    <p class="hero-sub">Realistic organizing systems, cozy decor ideas, and product picks that actually hold up in daily life.</p>
+    <a class="btn" href="#latest">Read the latest</a>
+  </div>
+</section>
+
+<section class="wrap section">
+  <h2 class="section-title">Browse by space</h2>
+  <div class="cat-grid">
+    <a class="cat-card" href="{{ '/15-pantry-organization-ideas-that-actually-work/' | relative_url }}">
+      <img src="{{ '/images/pantry-hero.png' | relative_url }}" alt="Organized pantry with clear bins and labels">
+      <span>Pantry</span>
+    </a>
+    <a class="cat-card" href="#latest">
+      <img src="{{ '/images/cat-closet.png' | relative_url }}" alt="Organized walk-in closet with wooden hangers">
+      <span>Closet</span>
+    </a>
+    <a class="cat-card" href="#latest">
+      <img src="{{ '/images/cat-small-space.png' | relative_url }}" alt="Small apartment with clever storage">
+      <span>Small spaces</span>
+    </a>
+    <a class="cat-card" href="#latest">
+      <img src="{{ '/images/cat-living.png' | relative_url }}" alt="Cozy styled living room corner">
+      <span>Living room</span>
+    </a>
+  </div>
+</section>
+
+<section class="wrap section" id="latest">
+  <h2 class="section-title">Latest articles</h2>
+  <div class="post-grid">
+    {% for post in site.posts %}
+    <a class="post-card" href="{{ post.url | relative_url }}">
+      {% if post.image %}<img src="{{ post.image | relative_url }}" alt="{{ post.title | escape }}">{% endif %}
+      <div class="post-card-body">
+        {% if post.category %}<p class="kicker">{{ post.category }}</p>{% endif %}
+        <h3>{{ post.title }}</h3>
+        <p class="excerpt">{{ post.description | default: post.excerpt | strip_html | truncate: 120 }}</p>
+        <p class="meta">{{ post.date | date: "%B %-d, %Y" }}</p>
+      </div>
+    </a>
+    {% endfor %}
+  </div>
+</section>
+
+<section class="wrap section about-strip">
+  <img src="{{ '/images/cat-living.png' | relative_url }}" alt="Cozy living room detail">
+  <div>
+    <h2 class="section-title">Hi, welcome to the Nest</h2>
+    <p>We believe an organized home shouldn't require a renovation or a big budget — just smart systems, a few good tools, and ideas that survive real daily life. That's what we write about, one room at a time.</p>
+    <a class="btn btn-ghost" href="{{ '/about/' | relative_url }}">More about us</a>
+  </div>
+</section>

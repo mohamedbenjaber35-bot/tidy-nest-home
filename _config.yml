@@ -4,11 +4,13 @@ description: >-
   to make every corner of your home calmer and prettier.
 url: "https://mohamedbenjaber35-bot.github.io"
 baseurl: "/tidy-nest-home"
-theme: minima
 permalink: /:title/
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-header_pages:
-  - about.md
-  - disclosure.md
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
