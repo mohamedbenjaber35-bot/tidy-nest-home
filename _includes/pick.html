@@ -1,0 +1,6 @@
+<div class="pick">
+  <span class="pick-badge">⭐ {{ include.label | default: "Our Top Pick" }}</span>
+  <p class="pick-name">{{ include.name }}</p>
+  <p class="pick-why">{{ include.why }}</p>
+  <a class="pick-btn" href="{{ include.link }}" rel="nofollow sponsored" target="_blank">{{ include.cta | default: "Check price on Amazon" }} →</a>
+</div>

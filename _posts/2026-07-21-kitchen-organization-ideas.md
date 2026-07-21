@@ -14,6 +14,20 @@ home. When your tools, food, and gadgets each have a spot, cooking feels calmer
 and cleanup is quick. Here are 14 simple kitchen organization ideas that hold up
 to real, everyday cooking.
 
+**In a hurry? Here are the 3 buys that make the biggest difference:**
+
+<div class="table-wrap" markdown="1">
+
+| Product | Best for | Why we love it |
+|---|---|---|
+| [Clear airtight canisters](https://www.amazon.com/s?k=airtight+food+storage+canisters&tag=tamirugc20-20) | Pantry staples | See what's low at a glance, keep food fresh |
+| [Bamboo drawer dividers](https://www.amazon.com/s?k=bamboo+drawer+organizer+utensil&tag=tamirugc20-20) | Utensil drawers | Ends the junk-drawer chaos in 10 minutes |
+| [2-tier under-sink organizer](https://www.amazon.com/s?k=under+sink+organizer+2+tier&tag=tamirugc20-20) | Wasted cabinet space | Works around the pipes, doubles your storage |
+
+</div>
+
+{% include pick.html label="Best Overall" name="Clear Airtight Canister Set" why="One cheap swap that instantly makes your whole kitchen look organized — and keeps flour, pasta and coffee fresh for months." link="https://www.amazon.com/s?k=airtight+food+storage+canisters&tag=tamirugc20-20" %}
+
 ## 1. Clear the counters first
 
 Counters collect clutter fast. Corral your everyday tools in a single
