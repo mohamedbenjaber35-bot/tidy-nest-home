@@ -363,6 +363,24 @@ a { color: var(--terra-dark); }
 
 .footer-links a:hover { color: var(--terra-dark); }
 
+.footer-newsletter { max-width: 300px; }
+
+.footer-newsletter-title { font-weight: 600; margin: 0 0 10px; }
+
+.footer-newsletter-form { display: flex; gap: 8px; }
+
+.footer-newsletter-input {
+  flex: 1;
+  min-width: 0;
+  padding: 10px 12px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  font-size: 0.9rem;
+  font-family: inherit;
+}
+
+.footer-newsletter-btn { padding: 10px 16px; font-size: 0.9rem; white-space: nowrap; }
+
 .footer-small {
   padding-bottom: 26px;
 }
