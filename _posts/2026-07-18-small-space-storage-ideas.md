@@ -14,6 +14,20 @@ everything lives on counters, floors, and chairs, even a lovely apartment
 feels cramped. These 14 ideas move your stuff up, under, and behind, so the
 space you have finally feels like enough.
 
+**Short on time? Start with these 3:**
+
+<div class="table-wrap" markdown="1">
+
+| Product | Best for | Why we love it |
+|---|---|---|
+| [Under-bed storage containers](https://www.amazon.com/s?k=under+bed+storage+containers+with+wheels&tag=tamirugc20-20) | Biggest hidden closet | Swallows off-season clothes and shoes, invisible but reachable |
+| [Floating shelves](https://www.amazon.com/s?k=floating+shelves+set&tag=tamirugc20-20) | Empty walls | Moves books and boxes off every flat surface |
+| [Storage ottoman](https://www.amazon.com/s?k=storage+ottoman&tag=tamirugc20-20) | Furniture that hides things | A footrest, seat, and blanket chest in one |
+
+</div>
+
+{% include pick.html label="Best First Buy" name="Under-Bed Storage Containers (with wheels)" why="The biggest hidden closet in any home — this one change clears more visible clutter than anything else on this list." link="https://www.amazon.com/s?k=under+bed+storage+containers+with+wheels&tag=tamirugc20-20" %}
+
 ## 1. Claim the space under the bed
 
 It's the biggest hidden closet you own.

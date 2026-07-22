@@ -2,7 +2,7 @@
 layout: post
 title: "14 Kitchen Organization Ideas for a Calmer, Tidier Kitchen"
 description: "Make your kitchen easier to cook in with 14 simple organization ideas — drawer dividers, clear canisters, under-sink fixes and smart storage that actually lasts."
-image: /images/pantry-hero.png
+image: /images/pantry-hero.jpg
 category: Kitchen
 ---
 

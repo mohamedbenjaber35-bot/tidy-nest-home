@@ -13,6 +13,28 @@ layout: default
   <div class="prose">
     {{ content }}
   </div>
+
+  {% assign other_posts = site.posts | where_exp: "post", "post.url != page.url" %}
+  {% assign same_category = other_posts | where: "category", page.category %}
+  {% assign different_category = other_posts | where_exp: "post", "post.category != page.category" %}
+  {% assign related_posts = same_category | concat: different_category | slice: 0, 3 %}
+  {% if related_posts.size > 0 %}
+  <section class="wrap section related-posts">
+    <h2 class="section-title">You might also like</h2>
+    <div class="post-grid">
+      {% for post in related_posts %}
+      <a class="post-card" href="{{ post.url | relative_url }}">
+        {% if post.image %}<img src="{{ post.image | relative_url }}" alt="{{ post.title | escape }}">{% endif %}
+        <div class="post-card-body">
+          {% if post.category %}<p class="kicker">{{ post.category }}</p>{% endif %}
+          <h3>{{ post.title }}</h3>
+        </div>
+      </a>
+      {% endfor %}
+    </div>
+  </section>
+  {% endif %}
+
   <footer class="post-footer">
     <a class="btn btn-ghost" href="{{ '/' | relative_url }}">← Back to all articles</a>
   </footer>

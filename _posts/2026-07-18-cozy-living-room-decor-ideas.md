@@ -14,6 +14,20 @@ ones. The difference is that everything has a beautiful place to hide. These
 12 ideas add warmth and texture to your living room — while quietly swallowing
 the remotes, cables, blankets, and toys.
 
+**Short on time? Start with these 3:**
+
+<div class="table-wrap" markdown="1">
+
+| Product | Best for | Why we love it |
+|---|---|---|
+| [Storage ottoman](https://www.amazon.com/s?k=storage+ottoman+coffee+table&tag=tamirugc20-20) | Biggest single upgrade | A coffee table, footrest, and blanket chest in one |
+| [Woven storage baskets](https://www.amazon.com/s?k=large+woven+baskets+living+room&tag=tamirugc20-20) | Hiding toys & throws | Looks like decor, works like a closet |
+| [Warm table lamp](https://www.amazon.com/s?k=warm+table+lamp+living+room&tag=tamirugc20-20) | Instant cozy mood | Swaps flat overhead light for a golden-hour glow |
+
+</div>
+
+{% include pick.html label="Best First Buy" name="Storage Ottoman" why="It does the job of three pieces of furniture at once — clutter goes in, cozy comes out — making it the highest-impact single purchase for this room." link="https://www.amazon.com/s?k=storage+ottoman+coffee+table&tag=tamirugc20-20" %}
+
 ## 1. Start with a storage ottoman
 
 The MVP of every tidy living room. A

@@ -14,6 +14,20 @@ has even started. The fix isn't a bigger closet — it's a smarter one. These 12
 ideas turn any wardrobe into the kind of calm, boutique-style space you see in
 magazines, without the designer budget.
 
+**Short on time? Start with these 3:**
+
+<div class="table-wrap" markdown="1">
+
+| Product | Best for | Why we love it |
+|---|---|---|
+| [Velvet non-slip hangers](https://www.amazon.com/s?k=velvet+hangers+50+pack&tag=tamirugc20-20) | Instant boutique look | Cheapest, fastest closet transformation there is |
+| [Hanging closet organizer](https://www.amazon.com/s?k=hanging+closet+organizer+shelves&tag=tamirugc20-20) | Renters without shelving | Adds 5-6 shelves with zero drilling |
+| [Vacuum storage bags](https://www.amazon.com/s?k=vacuum+storage+bags+clothes&tag=tamirugc20-20) | Off-season bulk | Shrinks coats and bedding to a third of the size |
+
+</div>
+
+{% include pick.html label="Best First Buy" name="Velvet Non-Slip Hangers (50-Pack)" why="The single cheapest, fastest way to make a whole closet look boutique-styled overnight — matching hangers do more visual work than any other single change." link="https://www.amazon.com/s?k=velvet+hangers+50+pack&tag=tamirugc20-20" %}
+
 ## 1. Switch to matching slim hangers
 
 Nothing transforms a closet faster. A set of

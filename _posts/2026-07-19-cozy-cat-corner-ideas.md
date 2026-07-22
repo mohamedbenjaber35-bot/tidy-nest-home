@@ -14,6 +14,20 @@ little planning, they'll happily claim a corner you actually designed for
 them. These 12 ideas create a cat corner that your cat genuinely uses, and
 that still looks like part of your home instead of a pet store.
 
+**Short on time? Start with these 3:**
+
+<div class="table-wrap" markdown="1">
+
+| Product | Best for | Why we love it |
+|---|---|---|
+| [Cave-style cat bed](https://www.amazon.com/s?k=cat+cave+bed&tag=tamirugc20-20) | A bed they'll actually use | Feels hidden and warm — keeps fur off your cushions |
+| [Wooden cat tree](https://www.amazon.com/s?k=modern+wooden+cat+tree&tag=tamirugc20-20) | Window-side climbing | Covers climbing, scratching and window-watching at once |
+| [Cat water fountain](https://www.amazon.com/s?k=cat+water+fountain+quiet&tag=tamirugc20-20) | Health & hydration | Gets even stubborn cats drinking more |
+
+</div>
+
+{% include pick.html label="Best First Buy" name="Cave-Style Cat Bed" why="The cheapest way to get a cat to actually use their new corner — cats want to feel hidden and warm, and this delivers both from day one." link="https://www.amazon.com/s?k=cat+cave+bed&tag=tamirugc20-20" %}
+
 ## 1. Start with a bed they'll actually sleep in
 
 Cats want to feel hidden and warm. A

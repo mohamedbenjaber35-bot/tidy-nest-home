@@ -2,7 +2,7 @@
 layout: post
 title: "15 Pantry Organization Ideas That Actually Work"
 description: "Transform a messy pantry into a calm, functional space with these 15 realistic pantry organization ideas — clear bins, labels, lazy Susans, and more."
-image: /images/pantry-hero.png
+image: /images/pantry-hero.jpg
 category: Pantry
 ---
 
@@ -13,6 +13,20 @@ A cluttered pantry makes every meal harder than it needs to be. The good news:
 you don't need a renovation or a huge budget to fix it. These 15 ideas use
 simple, affordable tools — and every one of them holds up in real daily life,
 not just in photos.
+
+**Short on time? Start with these 3:**
+
+<div class="table-wrap" markdown="1">
+
+| Product | Best for | Why we love it |
+|---|---|---|
+| [Clear storage bins](https://www.amazon.com/s?k=clear+pantry+storage+bins&tag=tamirugc20-20) | Seeing what you have | Cuts overbuying and food waste at a glance |
+| [Airtight food containers](https://www.amazon.com/s?k=airtight+food+storage+containers+set&tag=tamirugc20-20) | Dry goods freshness | Keeps flour, rice and cereal fresh far longer |
+| [Lazy Susan turntable](https://www.amazon.com/s?k=lazy+susan+turntable+pantry&tag=tamirugc20-20) | Deep corner shelves | Brings the forgotten back row to the front |
+
+</div>
+
+{% include pick.html label="Best First Buy" name="Clear Pantry Storage Bins" why="The fastest way to see everything you own at once — less overbuying, less waste, and an instantly calmer-looking pantry." link="https://www.amazon.com/s?k=clear+pantry+storage+bins&tag=tamirugc20-20" %}
 
 ## 1. Start with clear storage bins
 
@@ -59,7 +73,7 @@ Give snacks one home. A couple of
 keep granola bars and chip bags from spreading everywhere — and kids can find
 them without unstacking your whole system.
 
-![Organized pantry shelves with labeled bins and baskets]({{ '/images/pantry-pin-1.png' | relative_url }})
+![Organized pantry shelves with labeled bins and baskets]({{ '/images/pantry-pin-1.jpg' | relative_url }})
 
 ## 8. Store cans on a can dispenser rack
 
@@ -104,7 +118,7 @@ and stop wrecking the rest of the pantry looking for them.
 No system survives without maintenance. One 10-minute reset a week — return
 strays, wipe shelves, note what's running low — keeps the whole pantry working.
 
-![Spice jars on a wooden lazy Susan in a small pantry]({{ '/images/pantry-pin-2.png' | relative_url }})
+![Spice jars on a wooden lazy Susan in a small pantry]({{ '/images/pantry-pin-2.jpg' | relative_url }})
 
 ---
 

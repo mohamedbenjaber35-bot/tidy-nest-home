@@ -14,6 +14,20 @@ a comfortable place to sit, and some green in the right spots, even a small
 patio or balcony can become the coziest corner of your home. Here are 14 ideas
 that make any outdoor space feel warm, calm, and lived-in.
 
+**Short on time? Start with these 3:**
+
+<div class="table-wrap" markdown="1">
+
+| Product | Best for | Why we love it |
+|---|---|---|
+| [Solar string lights](https://www.amazon.com/s?k=solar+string+lights+outdoor&tag=tamirugc20-20) | Instant atmosphere | Charges itself all day, glows all evening, no wiring |
+| [Weather-resistant lounge chair](https://www.amazon.com/s?k=outdoor+lounge+chair+weather+resistant&tag=tamirugc20-20) | A reason to go outside | One good deep-seat chair beats a full set you never use |
+| [Outdoor area rug](https://www.amazon.com/s?k=outdoor+patio+rug&tag=tamirugc20-20) | Defining the space | Turns hard concrete into a real outdoor "room" |
+
+</div>
+
+{% include pick.html label="Best First Buy" name="Solar String Lights" why="The single cheapest way to make any garden or balcony feel instantly cozy — no outlet, no wiring, just plug-and-glow atmosphere every evening." link="https://www.amazon.com/s?k=solar+string+lights+outdoor&tag=tamirugc20-20" %}
+
 ## 1. Start with one comfortable seat
 
 Before anything else, give yourself a reason to go outside. A
